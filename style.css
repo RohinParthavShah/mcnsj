@@ -1,0 +1,14 @@
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:rgba(0, 183, 255, 0.61);
+    
+    }
+    
+    #camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+    
+    }
+    
+    
+    
